@@ -1,0 +1,2 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2928;Leipzig-Holzhausen;V_N;08.06.2019;08.12.2020;390;Gesamt_Messzeitraum;eor;                                                                                                                          

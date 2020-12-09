@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2928;Leipzig-Holzhausen;R1;08.06.2019;08.12.2020;49;Gesamt_Messzeitraum;eor;                                                                                                                            
+2928;Leipzig-Holzhausen;RS_IND;08.06.2019;08.12.2020;49;Gesamt_Messzeitraum;eor;                                                                                                                        
+2928;Leipzig-Holzhausen;WRTR;08.06.2019;08.12.2020;258;Gesamt_Messzeitraum;eor;                                                                                                                         

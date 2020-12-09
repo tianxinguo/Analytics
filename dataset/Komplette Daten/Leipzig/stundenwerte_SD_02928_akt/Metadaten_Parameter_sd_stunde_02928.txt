@@ -1,0 +1,5 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+2928;19970317;20010331;Leipzig-Holzhausen;SD_SO;stdl. Sonnenscheindauer;;Daten der Sonnenscheindauer (Stundensummen) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in WOZ;;;eor;
+2928;20010401;20201208;Leipzig-Holzhausen;SD_SO;stdl. Sonnenscheindauer;;Daten der Sonnenscheindauer (Stundensummen) generiert aus stündlichen SYNOP-Meldungen (nach 01.04.2001);Stundenwerte in UTC;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 09.12.2020 --  Deutscher Wetterdienst  --

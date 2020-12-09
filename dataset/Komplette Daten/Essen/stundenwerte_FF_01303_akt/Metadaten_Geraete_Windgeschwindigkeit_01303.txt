@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1303;Essen-Mülheim;6.94;51.41;120;18;19630101;19650711;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1303;Essen-Bredeney;6.97;51.41;153.5;15.4;19650712;19850526;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1303;Essen-Bredeney;6.97;51.41;152;16;19850527;19940430;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1303;Essen-Bredeney;6.97;51.41;152;16;19940501;20000725;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;15;20000726;20051207;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;15;20051208;20110614;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;15;20111115;20201208;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+generiert: 09.12.2020 --  Deutscher Wetterdienst  --

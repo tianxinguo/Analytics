@@ -1,0 +1,5 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1303;Essen-Bredeney;WRTR;08.06.2019;08.12.2020;3;Gesamt_Messzeitraum;eor;                                                                                                                               
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+1303;Essen-Bredeney;WRTR;24.10.2019-15:00;24.10.2019-18:00;3;;eor;                                                                                                                                      
+generiert: 09.12.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

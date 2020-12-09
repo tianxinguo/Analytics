@@ -1,0 +1,19 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2928;Leipzig-Holzhausen;F;15.06.2019-22:00;17.06.2019-07:00;34;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;F;22.06.2019-15:00;23.06.2019-19:00;29;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;F;24.06.2019-09:00;24.06.2019-20:00;12;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;F;25.06.2019-08:00;26.06.2019-03:00;20;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;F;26.06.2019-06:00;27.06.2019-12:00;31;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;F;08.07.2019-08:00;09.07.2019-05:00;22;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;F;26.08.2019-15:00;26.08.2019-16:00;2;;eor;                                                                                                                                     
+2928;Leipzig-Holzhausen;F;27.08.2019-14:00;27.08.2019-17:00;4;;eor;                                                                                                                                     
+2928;Leipzig-Holzhausen;F;28.08.2019-11:00;28.08.2019-14:00;4;;eor;                                                                                                                                     
+2928;Leipzig-Holzhausen;D;15.06.2019-22:00;17.06.2019-07:00;34;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;D;22.06.2019-15:00;23.06.2019-19:00;29;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;D;24.06.2019-09:00;24.06.2019-20:00;12;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;D;25.06.2019-08:00;26.06.2019-02:00;19;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;D;26.06.2019-07:00;27.06.2019-12:00;30;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;D;08.07.2019-08:00;09.07.2019-05:00;22;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;D;27.08.2019-15:00;27.08.2019-17:00;3;;eor;                                                                                                                                     
+2928;Leipzig-Holzhausen;D;28.08.2019-11:00;28.08.2019-14:00;4;;eor;                                                                                                                                     
+generiert: 09.12.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

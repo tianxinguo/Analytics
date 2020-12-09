@@ -1,0 +1,24 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2928;Leipzig-Holzhausen;R1;08.06.2019;08.12.2020;49;Gesamt_Messzeitraum;eor;                                                                                                                            
+2928;Leipzig-Holzhausen;RS_IND;08.06.2019;08.12.2020;49;Gesamt_Messzeitraum;eor;                                                                                                                        
+2928;Leipzig-Holzhausen;WRTR;08.06.2019;08.12.2020;258;Gesamt_Messzeitraum;eor;                                                                                                                         
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2928;Leipzig-Holzhausen;R1;16.06.2019-07:00;17.06.2019-06:00;23;;eor;                                                                                                                                   
+2928;Leipzig-Holzhausen;R1;28.08.2019-13:00;28.08.2019-15:00;2;;eor;                                                                                                                                    
+2928;Leipzig-Holzhausen;R1;01.09.2019-07:00;02.09.2019-07:00;24;;eor;                                                                                                                                   
+2928;Leipzig-Holzhausen;RS_IND;16.06.2019-07:00;17.06.2019-06:00;23;;eor;                                                                                                                               
+2928;Leipzig-Holzhausen;RS_IND;28.08.2019-13:00;28.08.2019-15:00;2;;eor;                                                                                                                                
+2928;Leipzig-Holzhausen;RS_IND;01.09.2019-07:00;02.09.2019-07:00;24;;eor;                                                                                                                               
+2928;Leipzig-Holzhausen;WRTR;15.06.2019-21:00;17.06.2019-09:00;36;;eor;                                                                                                                                 
+2928;Leipzig-Holzhausen;WRTR;22.06.2019-14:00;23.06.2019-21:00;31;;eor;                                                                                                                                 
+2928;Leipzig-Holzhausen;WRTR;24.06.2019-08:00;24.06.2019-21:00;13;;eor;                                                                                                                                 
+2928;Leipzig-Holzhausen;WRTR;25.06.2019-06:00;26.06.2019-03:00;21;;eor;                                                                                                                                 
+2928;Leipzig-Holzhausen;WRTR;26.06.2019-06:00;27.06.2019-12:00;30;;eor;                                                                                                                                 
+2928;Leipzig-Holzhausen;WRTR;08.07.2019-12:00;08.07.2019-13:00;1;;eor;                                                                                                                                  
+2928;Leipzig-Holzhausen;WRTR;26.08.2019-15:00;27.08.2019-06:00;15;;eor;                                                                                                                                 
+2928;Leipzig-Holzhausen;WRTR;27.08.2019-14:00;28.08.2019-06:00;16;;eor;                                                                                                                                 
+2928;Leipzig-Holzhausen;WRTR;28.08.2019-09:00;28.08.2019-15:00;6;;eor;                                                                                                                                  
+2928;Leipzig-Holzhausen;WRTR;30.08.2019-12:00;02.09.2019-07:00;67;;eor;                                                                                                                                 
+2928;Leipzig-Holzhausen;WRTR;23.09.2019-12:00;23.09.2019-15:00;3;;eor;                                                                                                                                  
+2928;Leipzig-Holzhausen;WRTR;26.10.2019-14:00;27.10.2019-09:00;19;;eor;                                                                                                                                 
+generiert: 09.12.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    
